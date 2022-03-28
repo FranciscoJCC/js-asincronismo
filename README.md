@@ -1,1 +1,3 @@
-# js-asincronismo
+# CURSO DE PLATZI: Asincronismo con JavaScript
+
+
